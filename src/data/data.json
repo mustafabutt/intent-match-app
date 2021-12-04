@@ -1,0 +1,84 @@
+[
+  {
+      "username": "mustafa",
+      "age": 12,
+      "race": "black",
+      "gender": "male",
+      "location": "usa",
+      "hobbies": [
+        "reading",
+        "singin"
+      ],
+      "interest": "female"
+    },
+    {
+      "username": "amir",
+      "age": 14,
+      "race": "white",
+      "gender": "male",
+      "location": "pak",
+      "hobbies": [
+        "reading",
+        "writting"
+      ],
+      "interest": "female"
+    },
+    {
+      "username": "patrick",
+      "age": 20,
+      "race": "black",
+      "gender": "male",
+      "location": "uk",
+      "hobbies": [
+        "travelling"
+      ],
+      "interest": "female"
+    },
+    {
+      "username": "bekah",
+      "age": 30,
+      "race": "white",
+      "gender": "female",
+      "location": "usa",
+      "hobbies": [
+        "reading"
+      ],
+      "interest": "male"
+    },
+    {
+      "username": "heidi",
+      "age": 22,
+      "race": "black",
+      "gender": "female",
+      "location": "usa",
+      "hobbies": [
+        "singin"
+      ],
+      "interest": "male"
+    },
+    {
+      "interest": "female",
+      "hobbies": [
+        "reading",
+        "travelling"
+      ],
+      "location": "usa",
+      "gender": "male",
+      "race": "black",
+      "age": 13,
+      "username": "abdul",
+      "__v": 0
+    },
+    {
+      "username": "bruno",
+      "age": 19,
+      "race": "white",
+      "gender": "male",
+      "location": "usa",
+      "hobbies": [
+        "cricket",
+        "reading"
+      ],
+      "interest": "female"
+    }
+]
