@@ -3,7 +3,7 @@
 Make sure you have installed Nodejs.
 Clone the source code and run the following commands in to the root directory. 
 
-npm install 
+npm install <br/>
 npm run start
 
 
